@@ -5,11 +5,6 @@ Just a Computer Engineering Student who learns shit from people's shit posting a
 - My Bootstrapping Utilities to Setup my PDEs for Windows and Linux,
 - Website Base
 
-##### 📖 I'm currently learning
-- Go, Shell, and Python
-- Hugo and Netlify Combo
-- Korean
-
 ##### ⚡ Fun fact:
 - I'm a Student at the University of the Philippines - Diliman
 - I bow down to ~~Free and~~ Open Source Software
@@ -21,11 +16,9 @@ Just a Computer Engineering Student who learns shit from people's shit posting a
  
 ##### 📫 How to reach me:
 I'll add links once I'm done with the website.
+- Website: ()
+- [YouTube](https://www.youtube.com/@yubikkun)
+- Twitch: ()
+- [Twitter](https://twitter.com/yubikkun)
+- Facebook: 
 
-Youtube: ()
-
-Twitch: ()
-
-Twitter: ()
-
-Website: ()
