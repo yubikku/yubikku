@@ -1,16 +1,27 @@
-### Hi there 👋
+# Yubikku
+Just a Computer Engineering Student who learns shit from people's shit posting and philosophical ideals. Crafting Extensible and Efficient 40k Software and Tech. 
 
-<!--
-**yubikku/yubikku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔬 I'm currently working:
+- My Bootstrapping Utilities to Setup my PDEs for Windows and Linux,
+- Website Base
 
-Here are some ideas to get you started:
+## 📖 I'm currently learning
+- Go, Shell, and Python
+- Hugo and Netlify Combo
+- Korean
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Fun fact:
+- I'm a Student at the University of the Philippines - Diliman
+- I bow down to ~~Free and~~ Open Source Software
+- Vim is a lifestyle
+- I draw but its still shit
+- I play music but its still shit also
+<!-- - I Stream on the Weekends -->
+<!-- - I Make Random Vids(YouTube Link) -->
+ 
+## 📫 How to reach me:
+I'll add links to once I'm done with the website.
+Youtube : ()
+Twitch : ()
+Twitter : ()
+Website : ()
